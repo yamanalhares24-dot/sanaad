@@ -1,0 +1,10 @@
+export const products = [
+  { id: 1, title: "Burnikk", shortDesc: "Sexbomb", img: "https://firebasestorage.googleapis.com/v0/b/salinaka-ecommerce.appspot.com/o/products%2F7l3FMZqY8JdfssalDgx2?alt=media&token=be15689c-e12c-4829-9d78-32395ef1e3f7", price: 250 },
+  { id: 2, title: "Kibal Batal", shortDesc: "Kibal Black", img: "https://firebasestorage.googleapis.com/v0/b/salinaka-ecommerce.appspot.com/o/products%2FALz5M4DI7MF7CdZrq3gS?alt=media&token=8d33ea34-2de3-466b-9b3d-27015e9cd540", price: 380 },
+  { id: 3, title: "Very Nice", shortDesc: "Salt maaalat", img: "https://firebasestorage.googleapis.com/v0/b/salinaka-ecommerce.appspot.com/o/products%2FLIu8tS4yHSU28Xi8BXCj?alt=media&token=31e796ad-dbd6-4e4f-a8a9-192f5158684a", price: 720 },
+  { id: 4, title: "Buldit", shortDesc: "Salt Maalat", img: "https://firebasestorage.googleapis.com/v0/b/salinaka-ecommerce.appspot.com/o/products%2FYVPdTsyxJybMCsdKpXhq?alt=media&token=23d7673c-a0bf-4dcb-89f1-8482446b56be", price: 260 },
+  { id: 5, title: "Balakubak", shortDesc: "Betsin Maalat", img: "https://firebasestorage.googleapis.com/v0/b/salinaka-ecommerce.appspot.com/o/products%2FYZ7LM3vZjWbIIJH2tgEb?alt=media&token=5e722063-a792-4502-9f6e-c3df1581aa9c", price: 130 },
+  { id: 6, title: "Kutu", shortDesc: "Sexbomb", img: "https://firebasestorage.googleapis.com/v0/b/salinaka-ecommerce.appspot.com/o/products%2FbS1hHdO7NvbR1yN5ZPlR?alt=media&token=809a3249-f83d-4aec-b134-34a65ce2ce10", price: 310 },
+  { id: 7, title: "Tiktilaok Manok", shortDesc: "Sexbomb", img: "https://firebasestorage.googleapis.com/v0/b/salinaka-ecommerce.appspot.com/o/products%2F7l3FMZqY8JdfssalDgx2?alt=media&token=be15689c-e12c-4829-9d78-32395ef1e3f7", price: 100 },
+  { id: 8, title: "Quake Overload", shortDesc: "Yezyow", img: "https://firebasestorage.googleapis.com/v0/b/salinaka-ecommerce.appspot.com/o/products%2F7l3FMZqY8JdfssalDgx2?alt=media&token=be15689c-e12c-4829-9d78-32395ef1e3f7", price: 155 },
+];
